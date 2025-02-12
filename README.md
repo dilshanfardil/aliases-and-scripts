@@ -19,7 +19,7 @@ Creates directories for WSO2 issues and opens them in the file manager.
 
 ## Setup Instructions
 
-1. **Add aliases** to your `~/.zshrc` file.
+1. **Add the aliases** to your `~/.zshrc` file.
 2. **Place custom scripts** in the `/usr/local/bin/` directory.
 3. Modify the scripts as needed.
 4. Reload your shell:
